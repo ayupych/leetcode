@@ -2,7 +2,7 @@ package org.palindromeNumber;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.leetcode.palindromeNumber.Solution;
+import org.leetcode.palindromenumber.Solution;
 
 public class SolutionTest {
 

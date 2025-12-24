@@ -2,7 +2,7 @@ package org.twoSum;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.leetcode.twoSum.Solution;
+import org.leetcode.twosum.Solution;
 
 public class SolutionTest {
     @Test
